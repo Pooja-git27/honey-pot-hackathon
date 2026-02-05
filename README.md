@@ -1,4 +1,4 @@
-# 🛡️ AI Agentic Honeypot (Team Ramesh)
+# 🛡️ AI Agentic Honeypot (Team turtle2code)
 
 ### 🚀 Project Overview
 This project is an intelligent **AI-powered Honeypot** designed to waste scammers' time and extract their details. It uses a custom persona ("Ramesh Uncle") to engage scammers in realistic, confused conversations while silently capturing their payment details.
