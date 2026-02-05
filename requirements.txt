@@ -1,5 +1,5 @@
 fastapi
 uvicorn
-google-generativeai
 requests
+google-generativeai
 python-multipart
